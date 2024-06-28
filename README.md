@@ -1,4 +1,4 @@
 # Frontend Mentor - Social links profile
 
 ![Design preview for the Social links profile coding challenge]
-![desktop-preview](https://github.com/Bintou-Traore/social-links-profile-/assets/123988915/9e8ecce3-1779-4022-b297-26484c91490b)
+![destkop-design](https://github.com/Bintou-Traore/social-links-profile-/assets/123988915/6b09c6dd-3bfd-4ec7-9658-b2dc2d6b96e7)
